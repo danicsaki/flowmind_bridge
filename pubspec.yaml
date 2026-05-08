@@ -4,9 +4,9 @@ description: >-
   end-to-end testing. Exposes a localhost HTTP server for the QA agent to
   read the UI, dispatch taps/text, and capture screenshots.
 version: 1.0.0
-homepage: https://github.com/<your-github-username>/flowmind_bridge
-repository: https://github.com/<your-github-username>/flowmind_bridge
-issue_tracker: https://github.com/<your-github-username>/flowmind_bridge/issues
+homepage: https://github.com/danicsaki/flowmind_bridge
+repository: https://github.com/danicsaki/flowmind_bridge
+issue_tracker: https://github.com/danicsaki/flowmind_bridge/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
