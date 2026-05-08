@@ -1,0 +1,22 @@
+name: flowmind_bridge
+description: >-
+  FlowMind QA Bridge — embed in your Flutter app to enable autonomous AI-driven
+  end-to-end testing. Exposes a localhost HTTP server for the QA agent to
+  read the UI, dispatch taps/text, and capture screenshots.
+version: 1.0.0
+homepage: https://github.com/<your-github-username>/flowmind_bridge
+repository: https://github.com/<your-github-username>/flowmind_bridge
+issue_tracker: https://github.com/<your-github-username>/flowmind_bridge/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
